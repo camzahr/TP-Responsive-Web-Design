@@ -1,0 +1,6 @@
+@media screen and (max-device-width: 1000px) and (orientation:landscape){
+   aside {  visibility: hidden;   }
+}
+
+@media screen and (max-device-width: 1000px) {
+   a {  visibility: hidden;   }
