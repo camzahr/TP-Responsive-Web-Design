@@ -3,5 +3,5 @@
 }
 
 @media screen and (max-device-width: 1000px) {
-   a {  visibility: hidden;   }
+   .share {  visibility: hidden;   }
 }
